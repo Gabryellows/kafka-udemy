@@ -3,7 +3,7 @@
   Apache Kafka para iniciantes
 </h2>
 
-<img alt="Banner Kafka" src="./assets/apache_kafka.png"/>
+<img alt="Banner Kafka" src="./assets/apache_kafka.png" width="950" height="400"/>
 
 
 A subida do kafka e do zookeeper foi feita por conteinerização;
